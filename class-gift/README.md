@@ -1,5 +1,29 @@
 ## Class Gift
 
+### 04-13-2011
+
+The Sustainability and Green Initiatives Fund Committee has approved the
+following projects for funding this fiscal year:
+
+$130 to Colby Sato, ‘14 for a Worm Bin project - Colby is working a
+project that will enhance our composting program at Olin. This is an
+area in which many students would like to improve our processes.
+$650 to Ben Chapman, ‘14 for the Solar Power project - Ben bought a
+battery that will be used to store solar power from the small array we
+have behind the Campus Center. The intention is to calculate the amount
+of power that can be generated in that area. The plan is to build a
+living lab in the area, so it is helpful to know how much solar power
+will be available for the structure.
+$1720 to Art MacCarley for the Automotive Tech. Class Hybrid Golf Cart
+project – Art is a visiting professor teaching Sustainable Automotive
+Design course. Olin College Facilities has donated an old golf cart to
+this course and students are building alternative fuel sources into the
+vehicle. The funding is going toward parts and materials for this
+project.
+
+Recipients will take pictures and send a brief description of the work
+they complete. Stay tuned!
+
 ### 01-04-2011
 
 Good news! The energy dashboard monitoring software provided in part by
