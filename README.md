@@ -8,6 +8,8 @@ watch button above.
 If you have a question open an [issue][issue] or if you have something
 you'd like to add or update [open a pull request][pull-request].
 
+### Current Projects
+
 * [Class Gift][gift]
 
 [gift]: https://github.com/olinalumni/class-of-2007/tree/master/class-gift
