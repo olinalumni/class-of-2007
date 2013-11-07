@@ -7,7 +7,7 @@ present this endowment to fund **green initiatives** at Olin College. To
 ensure that the initiatives undertaken yield measurable results, the
 class has set the following guidelines for distributing the endowment
 funds administered by the Olin College VP of Operations in consultation
-with the Provost and VP for Development, and Alumni Relations. Upon
+with the Provost and VP for Development, Family, and Alumni Relations. Upon
 reaching their minimum amount to endow, at their 5-year reunion the
 class voted to endow the fund. The agreement has been revised to reflect
 the College’s updated endowment policies.
@@ -19,11 +19,11 @@ the College’s updated endowment policies.
         the CORe committee selection process (or current equivalent), to
         serve on Olin College’s Sustainability Committee, which consists
         of representation from both faculty and staff, including the
-        Director of Facilities the Town of Needham.
+        Director of Facilities for the Town of Needham.
 
         1.  Charge:
 
-            1.  The Committee will send out a request for proposals to
+            1.  The Committee will send out requests for proposals to
                 the community.
 
             2.  The Committee will evaluate green initiative project
@@ -33,7 +33,7 @@ the College’s updated endowment policies.
 
     2.  One student, chosen by consensus by the Committee, will be
         responsible for ensuring meetings are scheduled, advertising
-        project proposal submission deadlines, and performing general
+        project proposal submission deadlines are met, and performing general
         administration in regard to the green initiatives fund as
         needed.
 
@@ -46,10 +46,10 @@ the College’s updated endowment policies.
     4.  The committee is not required to approve a project every
         semester. If there are no applicants, or if none of the project
         proposals are feasible or appropriate, the money that would have
-        been spent that semester can be re-entered into the endowment.
+        been spent that semester will remain in the endowment.
 
-    5.  After Financial Services closes the fiscal year or about August
-        15, the Office of Development, Family and Alumni Relations will
+    5.  After Financial Affairs closes the fiscal year (or about August
+        15), the Office of Development, Family and Alumni Relations will
         provide the Class of 2007 with a list summarizing all of the
         projects funded in the previous academic year.
 
@@ -61,7 +61,9 @@ the College’s updated endowment policies.
         make available from the endowment earnings 5% of a 12-quarter
         trailing average of the value of the endowment fund. Investment
         return in excess of this annual payout will not be distributed
-        from the Fund.
+        from the Fund. If, at any time, due to investment losses, the
+        fund does not have any accumulated earnings, no payout will be
+        distributed for that year.
 
     2.  The recipients of the grant must only use the money for supplies
         or services that will contribute to the progress of their
@@ -70,7 +72,7 @@ the College’s updated endowment policies.
     3.  The endowment will be open to donations from individuals or
         groups outside of the Class of 2007.
 
-    4.  If no money is spent over a period of 10 years after the
+    4.  If no money is spent over any period of 10 years after the
         endowment has been established, the Green Initiatives Fund will
         be transferred to the Olin Endowment.
 
@@ -91,12 +93,12 @@ the College’s updated endowment policies.
 4.  If a situation should arise not explicitly covered by the document,
     the Sustainability Committee should interpret the intent of the
     document, consult with the Development, Family and Alumni Relations
-    office and act accordingly.
+    office, and act accordingly.
 
 5.  Just as in the year 2012 (5-year Reunion), in 2017 (10-year
     Reunion), the Class of 2007, coordinated by the alumni
-    representatives review the progress of the green initiatives program
+    representatives, will review the progress of the green initiatives program
     and re-evaluate the intent and execution of the endowment.
 
 IN WITNESS WHEREOF, the parties hereto have caused this gift agreement
-to be duly representatives as of the Effectiveness Date:
+to be duly executed as representatives as of the Effectiveness Date:
