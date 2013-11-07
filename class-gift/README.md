@@ -1,5 +1,20 @@
 ## Class Gift
 
+### 05-15-2012
+
+James Nee ’15, co-founder of Researching Electric Vehicles at Olin
+(REVO), shared that funds awarded by this class gift are being used to
+construct a motor controller and the accompanying sensor system in order
+to follow the open source movement and improve the current design toward
+vehicles like bikes and full-sized cars. Additionally, all the work is
+being done by current Olin students, so not only is this going towards
+increasing the potential for electric vehicles, it is helping Oliners
+gain useful skills in power electronics and circuit development. Green
+Initiatives Fund student rep., Ben Chapman ’14 also reported that
+remaining funds have been awarded to Prof. Ben Linder toward the solar
+panel data-logging system. Thank you for your continued support which
+allows us to do these great green things.
+
 ### 06-13-2011
 
 [Flickr Photos](http://www.flickr.com/photos/olin/sets/72157626962311854/)
