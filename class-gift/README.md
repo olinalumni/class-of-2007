@@ -114,3 +114,25 @@ have an interest in electricity will find this system educational. Plans
 are for increased energy awareness through community display of this and
 other mechanical systems’ statuses thus providing a better understanding
 of how our resources are being used.
+
+### 06-02-2010
+
+#### Solar Panel Footing
+
+An expense of $1,035 was incurred for the purchase of solar panel
+footings on campus; this is preparation for installing solar panels.
+More progress on the solar panels will take place this coming year.
+There is a new committee called the Sustainability Steering Committee,
+which includes students (including the Green Initiatives Fund committee
+appointed by CORe), faculty, and staff, and has been involved in
+promoting sustainability on campus. The committee will be involved in
+the continuity of the larger-scale green projects at Olin.
+
+#### Big Belly Trash Compactor
+
+The Green Initiatives Fund Committee recently approved a proposal to buy
+a Big Belly trash compactor for the campus. The approved plan is for the
+remaining allotment of $1,465 for this year and up to the allowed $2,500
+for next year go towards funding the trash compactor. Details on pricing
+and purchasing are currently being worked out. A final decision will be
+made by the end of the fiscal year.
