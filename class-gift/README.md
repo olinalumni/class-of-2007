@@ -1,5 +1,19 @@
 ## Class Gift
 
+### 04-30-2013
+
+At their 5-year Reunion last fall, the class voted to endow the Green
+Fund allowing those who wanted to continue to give toward it to do so
+but moving focus of the class gift to another initiative. The class has
+since been proposed with two ideas both exploring scholarship funds.
+Before moving forward, the Green Fund's gift agreement must be updated
+to reflect the College's most current endowment spending policies and
+how the class wishes to proceed with management of the fund. In the
+meantime, a Big Belly is in the process of being purchased for Olin's
+campus. Build Day sustainability projects, such as building furniture to
+be placed by the previously funded solar power panels, were also funded
+thanks to donations to this class gift.
+
 ### 05-15-2012
 
 James Nee ’15, co-founder of Researching Electric Vehicles at Olin
